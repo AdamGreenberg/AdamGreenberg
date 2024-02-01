@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary><b>🔒&nbsp;&nbsp;PGP&nbsp;Public&nbsp;Key</b>: <code>157C A582 D9E8 D3D2 B8A9 EB42 0EC9 6A77 5C90 CE24</code></summary>
+  <summary><b>🔏 PGP&nbsp;Public&nbsp;Key</b>: <code>157C A582 D9E8 D3D2 B8A9 EB42 0EC9 6A77 5C90 CE24</code></summary>
   <br/>
 
 ```
